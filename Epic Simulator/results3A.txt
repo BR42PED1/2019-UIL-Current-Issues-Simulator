@@ -1,0 +1,1268 @@
+ -- District 1 --
+ March 30, 2019, Friona H S, Friona 
+-Individual Results-
+1.    Stephen   Pulliam,   Canadian HS,   Canadian,   27,   33     X   Region
+2.    Grace   Abraham,   Canadian HS,   Canadian,   24,   32     X   Region
+3.    Alex   Moreno,   Canadian HS,   Canadian,   24,   31     X   Region
+4.    Natasha   Sarem,   Bushland HS,   Bushland,   27,   31     X   Alternate
+5.    Alex   Smith,   Canadian HS,   Canadian,   27,   30     X  
+6.    Mariana   Pina,   Friona H S,   Friona,   27,   29     X  
+7.    Sloan   Dominguez,   Friona H S,   Friona,   24,   28    
+8.    Peyton   Murff,   River Road HS,   Amarillo,   24,   27    
+9.    Andres   Montana,   Friona H S,   Friona,   24,   26    
+10.    Efrain   Torres,   Dimmitt H S,   Dimmitt,   22,   22    
+11.    Belen   Lopez,   Spearman H S,   Spearman,   22,   22    
+12.    Mia   Pipkin,   Spearman H S,   Spearman,   20,   20    
+13.    Isaac   Martinez,   Spearman H S,   Spearman,   19,   19    
+14.    Keenan   Puckett,   Muleshoe H S,   Muleshoe,   19,   19    
+15.    Sam   Settle,   Dimmitt H S,   Dimmitt,   17,   17    
+16.    Luis   Martinez,   Dimmitt H S,   Dimmitt,   16,   16    
+17.    Thomas   Schrader,   River Road HS,   Amarillo,   16,   16    
+18.    Zanida   Chavez,   Tulia H S,   Tulia,   16,   16    
+19.    Daniel DJ   Rawson,   Tulia H S,   Tulia,   16,   16    
+20.    Kristen   Pope,   Muleshoe H S,   Muleshoe,   16,   16    
+21.    Jennifer   Chavez,   Spearman H S,   Spearman,   15,   15    
+22.    Collin   Huseman,   Tulia H S,   Tulia,   15,   15    
+23.    Hollie   Henderson,   Bushland HS,   Bushland,   14,   14    
+24.    Garrett   Scardino,   River Road HS,   Amarillo,   14,   14    
+25.    M'Kenzi   Bremmer,   Tulia H S,   Tulia,   13,   13    
+26.    Hannah   Bridges,   Bushland HS,   Bushland,   13,   13    
+27.    Damian   Rodriguez,   Friona H S,   Friona,   13,   13    
+28.    Shelby   Phillips,   River Road HS,   Amarillo,   13,   13    
+29.    Aaron   Venzor,   Muleshoe H S,   Muleshoe,   11,   11    
+30.    Seth   Grimland,   Bushland HS,   Bushland,   11,   11    
+31.    Haleigh   Wolfe,   Muleshoe H S,   Muleshoe,   11,   11    
+-Team Results-
+1.   Canadian HS   78     X   Region
+2.   Friona H S   75     X   Alternate
+3.   Spearman H S   61   
+4.   Dimmitt H S   55   
+5.   Bushland HS   54   
+6.   River Road HS   54   
+7.   Tulia H S   47   
+8.   Muleshoe H S   46   
+
+
+
+ -- District 2 --
+ March 30, 2019, Slaton H S, Slaton 
+-Individual Results-
+1.    Dylan   Caddell,   Idalou H S,   Idalou,   35,   43.5     X   Region
+2.    Caden   House,   Shallowater HS,    Shallowater,   26,   35.1     X   Region
+3.    Nathan   Sullivan,   Abernathy HS,   Abernathy,   25,   33     X   Region
+4.    Kenesaw   Stephens,   Idalou H S,   Idalou,   25,   29.2     X   Alternate
+5.    Cameron   Pope,   Slaton H S,   Slaton,   27,   29     X  
+6.    Quincy   Harbison,   Shallowater HS,   Shallowater,   27,   27     X  
+7.    Everett   Herrington,   Idalou H S,   Idalou,   25,   25    
+8.    Lillian   Bass,   Littlefield H S,   Littlefield,   23,   24    
+9.    Drew   McGehee,   Idalou H S,   Idalou,   22,   22    
+10.    Eber   Silva,   Denver City H S,   Denver City,   21,   21    
+11.    Abby   Rasberry,   Shallowater HS,   Shallowater,   20,   20    
+12.    Judith   Alvaraz,   Littlefield H S,   Littlefield,   18,   18    
+13.    Hudson   Sanders,   Denver City H S,   Denver City,   18,   18    
+14.    Jake   Ayer,   Abernathy HS,   Abernathy,   17,   17    
+15.    Ali   Vasquez,   Littlefield H S,   Littlefield,   17,   17    
+16.    Wade   Guzman,   Shallowater HS,   Shallowater,   16,   16    
+17.    Estefania   Muniz,   Slaton H S,   Slaton,   16,   16    
+18.    Keelan   Knight,   Abernathy HS,   Abernathy,   14,   14    
+19.    Destiny   Ramos,   Slaton H S,   Slaton,   14,   14    
+20.    Claudia   Martinez,   Littlefield H S,   Littlefield,   13,   13    
+21.    Ailin   Ortega,   Denver City H S,   Denver City,   13,   13    
+22.    Ashlynn   Krumnow,   Denver City H S,   Denver City,   12,   12    
+-Team Results-
+1.   Idalou H S   85     X   Region
+2.   Shallowater HS   73     X   Alternate
+3.   Littlefield H S   58   
+4.   Slaton H S   57   
+5.   Abernathy HS   56   
+6.   Denver City H S   52   
+
+
+
+ -- District 3 --
+ March 30, 2019, Kermit H S, Kermit 
+-Individual Results-
+1.    Caelan   Devine Ryan,   Alpine HS,   Alpine,   29,   39     X   Region
+2.    Katelyn   Lilley,   Alpine HS,   Alpine,   29,   34     X   Region
+3.    Micaela   Hernandez,   Kermit H S,   Kermit,   23,   27.6     X   Region
+4.    Zane   Shoemaker,   Alpine HS,   Alpine,   23,   27.1     X   Alternate
+5.    Angelo   Lopez,   Kermit H S,   Kermit,   16,   26     X  
+6.    Ethan   Hannigan,   Kermit H S,   Kermit,   21,   26     X  
+7.    Sage   Wash,   Alpine HS,   Alpine,   20,   21    
+8.    Gracie   Hefner,   Kermit H S,   Kermit,   19,   19    
+9.    Areli   Garcia,   Tornillo HS,   Tornillo,   12,   12    
+-Team Results-
+1.   Alpine HS   81   X   Region
+2.   Kermit H S   63   X   Alternate
+
+
+
+ -- District 4 --
+ March 30, 2019, Sonora HS, Sonora 
+-Individual Results-
+1.    Christian   DeLuna,   Reagan County HS,   Big Lake,   25,   31     X   Region
+2.    Jayden   Hostetter,   Ballinger HS,   Ballinger,   23,   27     X   Region
+3.    Ashley   Zook,   Sonora HS,   Sonora,   22,   26     X   Region
+4.    Hunter   Redman,   Grape Creek HS,   San Angelo,   21,   23     X   Alternate
+5.    Stephanie   Rodriguez,   TLC Academy,   San Angelo,   22,   23     X  
+6.    Jody   Cope,   Wall HS,   Wall,   19,   22     X  
+7.    Victor   Savala,   TLC Academy,   San Angelo,   21,   22    
+8.    Bethany   Pugh,   Wall HS,   Wall,   20,   21    
+9.    Rey   Portales,   Reagan County HS,   Big Lake,   18,   18    
+10.    Perla   Salazar,   Sonora HS,   Sonora,   16,   16    
+11.    Tristan   Ortiz,   Reagan County HS,   Big Lake,   16,   16    
+12.    Delaney   Elzein,   TLC Academy,   San Angelo,   16,   16    
+13.    Carlos   Mendoza,   Sonora HS,   Sonora,   16,   16    
+14.    Andrew   Quesada,   Wall HS,   Wall,   15,   15    
+15.    Kenzie   Gully,   Wall HS,   Wall,   14,   14    
+16.    Isaac   Bonilla,   Reagan County HS,   Big Lake,   14,   14    
+17.    Alana   Ortiz,   TLC Academy,   San Angelo,   12,   12    
+18.    Ashley   Cochran,   Ballinger HS,   Ballinger,   10,   10    
+-Team Results-
+1.   Reagan County HS   59     X   Region
+2.   TLC Academy   59     X   Alternate
+3.   Wall HS   54   
+4.   Sonora HS   54   
+
+
+
+ -- District 5 --
+ March 30, 2019, Jim Ned H S, Tuscola 
+-Individual Results-
+1.    Grayson   Glidewell,   Coahoma HS,   Coahoma,   33,   37     X   Region
+2.    Darcy   Meier,   Merkel H S,   Merkel,   24,   30     X   Region
+3.    Amy   Guo,   Coahoma HS,   Coahoma,   26,   27.5     X   Region
+4.    Josh   Hensley,   Stanton H S,   Stanton,   21,   26     X   Alternate
+5.    Kayla   Hicks,   Jim Ned H S,   Tuscola,   21,   25     X  
+6.    Garrett   Middleton,   Merkel H S,   Merkel,   21,   24     X  
+7.    Jesslyn   Payne,   Jim Ned H S,   Tuscola,   21,   23.5    
+8.    Justiss   Cowan,   Anson HS,   Anson,   21,   23    
+9.    Luis   Briceno,   Stanton H S,   Stanton,   19,   19    
+10.    Drew   Hagler,   Anson HS,   Anson,   18,   18    
+11.    Alexis   Barker,   Merkel H S,   Merkel,   18,   18    
+12.    Sydney   Harris,   Stanton H S,   Stanton,   18,   18    
+13.    Carolina   Ramirez,   Stanton H S,   Stanton,   18,   18    
+14.    Alex   Pineda,   Colorado HS,   Colorado City,   17,   17    
+15.    Stephen   Evans,   Jim Ned H S,   Tuscola,   16,   16    
+16.    Maliyah   Martinez,   Coahoma HS,   Coahoma,   15,   15    
+17.    Maggie   Guo,   Coahoma HS,   Coahoma,   15,   15    
+18.    Garin   Walters,   Merkel H S,   Merkel,   11,   11    
+-Team Results-
+1.   Coahoma HS   74     X   Region
+2.   Merkel H S   63     X   Alternate
+3.   Stanton H S   58   
+4.   Jim Ned H S   58   
+
+
+
+ -- District 6 --
+ March 30, 2019, Eastland H S, Eastland 
+-Individual Results-
+1.    Wyatt   Puryear,   Coleman HS,   Coleman,   24,   34     X   Region
+2.    Joseph   Trent,   Eastland H S,   Eastland,   24,   29.5     X   Region
+3.    Gus   Allen,   Coleman HS,   Coleman,   23,   28     X   Region
+4.    Andy   Nguyen,   Eastland H S,   Eastland,   23,   27     X   Alternate
+5.    Charlie   Smith,   Bangs HS,   Bangs,   24,   26     X  
+6.    Lizbeth   Felipe,   Dublin HS,   Dublin,   20,   25     X  
+7.    Caleb   Fairbanks,   Cisco HS,   Cisco,   20,   24    
+8.    Luke   Duncan,   Bangs HS,   Bangs,   21,   24    
+9.    Samuel   Packer,   Bangs HS,   Bangs,   20,   23    
+10.    Gage   Sikes,   Coleman HS,   Coleman,   21,   21    
+11.    Jett   Vann,   Coleman HS,   Coleman,   19,   19    
+12.    Jasmine   Munoz,   Dublin HS,   Dublin,   18,   18    
+13.    Zeph   Christian,   Comanche HS,   Comanche,   18,   18    
+14.    Liberty   Fox,   Cisco HS,    Cisco,   17,   17    
+15.    Emily   Guerrero,   Comanche HS,   Comanche,   17,   17    
+16.    Clint   Petree,   Cisco HS,   Cisco,   16,   16    
+17.    Ethan   LeGrande,   Hamilton H S,   Hamilton,   16,   16    
+18.    Jackson   Light,   Bangs HS,   Bangs,   16,   16    
+19.    Landon   Alexander,   Cisco HS,   Cisco,   13,   13    
+20.    Averie   Stone,   Hamilton H S,   Hamilton,   13,   13    
+21.    Chloe   Wilson,   Hamilton H S,   Hamilton,   12,   12    
+-Team Results-
+1.   Coleman HS   68     X   Region
+2.   Bangs HS   65     X   Alternate
+3.   Cisco HS   53   
+4.   Hamilton H S   41   
+
+
+
+ -- District 7 --
+ March 30, 2019, Jacksboro H S, Jacksboro 
+-Individual Results-
+1.    Emily   Cummings,   Brock HS,   Brock,   23,   31.9     X   Region
+2.    Mallak   Adell,   Brock HS,   Brock,   22,   31     X   Region
+3.    Cydney   Carr,   Brock HS,   Brock,   19,   28     X   Region
+4.    Jessie   Laposky,   Brock HS,   Brock,   21,   25     X   Alternate
+5.    John   Pennington,   Paradise HS,   Paradise,   22,   25     X  
+6.    Grant   Caddell,   Paradise HS,   Paradise,   20,   24     X  
+7.    Krista   Richey,   Paradise HS,   Paradise,   22,   22    
+8.    Kianna   Wilson,   Jacksboro H S,   Jacksboro,   20,   21    
+9.    Travis   Armstrong,   Breckenridge HS,   Breckenridge,   18,   18    
+10.    Megan   Aldape,   Paradise HS,   Paradise,   17,   17    
+11.    KC   Rater,   Jacksboro H S,   Jacksboro,   17,   17    
+12.    Gavyn   Willson,   Breckenridge HS,   Breckenridge,   17,   17    
+13.    Sterling   Moore,   Jacksboro H S,   Jacksboro,   12,   12    
+14.    Tabitha   Wells,   Jacksboro H S,   Jacksboro,   8,   8    
+-Team Results-
+1.   Brock HS   66     X   Region
+2.   Paradise HS   64     X   Alternate
+3.   Jacksboro H S   49   
+
+
+
+ -- District 8 --
+ March 30, 2019, Holliday H S,  Holliday 
+-Individual Results-
+1.    Logan   Schlegel,   Holliday H S,    Holliday,   33,   37     X   Region
+2.    Maddie   Reynolds,   Holliday H S,    Holliday,   27,   35     X   Region
+3.    Colten   Ellis,   Holliday H S,    Holliday,   29,   30     X   Region
+4.    Synghyn   Beasley-Vasquez,   Childress HS,    Childress,   18,   25     X   Alternate
+5.    Zane   Sneathen,   Childress HS,    Childress,   21,   25     X  
+6.    Robby   Story,   Henrietta H S,    Henrietta,   23,   23     X  
+7.    Carson   Cody,   Henrietta H S,    Henrietta,   20,   22    
+8.    Cooper   Taylor,   Holliday H S,    Holliday,   17,   21    
+-Team Results-
+1.   Holliday H S   89     X   Region
+
+
+
+ -- District 9 --
+ March 30, 2019, Pilot Point HS, Pilot Point 
+-Individual Results-
+1.    Justin   Estes,   Whitesboro HS,   Whitesboro,   31,   38     X   Region
+2.    Mariah   Fisher,   Callisburg HS,   Gainesville,   30,   37     X   Region
+3.    Kenzi   Cole,   S & S Consolidated HS,   Sadler,   30,   33     X   Region
+4.    Garrett   True,   Pilot Point HS,   Pilot Point,   33,   33     X   Alternate
+5.    Jillian   Enderby,   Callisburg HS,   Gainesville,   27,   32     X  
+6.    Tucker   Gattis,   Pottsboro HS,   Pottsboro,   27,   31     X  
+7.    Kimberly   Burns,   Pilot Point HS,   Pilot Point,   26,   30    
+8.    Savanna   Hodnett,   Pilot Point HS,   Pilot Point,   21,   29    
+9.    Tony   Morrell,   Whitesboro HS,   Whitesboro,   21,   25    
+10.    Chloe   Lewis,   Callisburg HS,   Gainesville,   21,   25    
+11.    Kendal   Rainey,   Pottsboro HS,   Pottsboro,   21,   23    
+12.    Ryan   Williams,   Callisburg HS,   Gainesville,   21,   21    
+13.    Alex   Pool,   Pilot Point HS,   Pilot Point,   18,   18    
+14.    Riley   Carroll,   Ponder HS,   Ponder,   18,   18    
+15.    Christian   Fulenwider,   Whitesboro HS,   Whitesboro,   18,   18    
+16.    Luke   Moser,   Ponder HS,   Ponder,   18,   18    
+17.    Kassandra   Tuley,   Pottsboro HS,   Pottsboro,   18,   18    
+18.    Charles   Holder,   Pottsboro HS,   Pottsboro,   18,   18    
+19.    Hayden   Taylor,   Ponder HS,   Ponder,   16,   16    
+20.    Stephen   Barefield,   Whitesboro HS,   Whitesboro,   14,   14    
+21.    Connor   Altes,   Ponder HS,   Ponder,   12,   12    
+-Team Results-
+1.   Pilot Point HS   80     X   Region
+2.   Callisburg HS   78     X   Alternate
+3.   Whitesboro HS   70   
+4.   Pottsboro HS   66   
+5.   Ponder HS   52   
+
+
+
+ -- District 10 --
+ March 30, 2019, Blue Ridge HS, Blue Ridge 
+-Individual Results-
+1.    Brian   Paine,   Leonard HS,   Leonard,   27,   36     X   Region
+2.    Bryson   Cook,   Leonard HS,   Leonard,   23,   30.8     X   Region
+3.    Caleb   Lankford,   Howe HS,   Howe,   21,   28.5     X   Region
+4.    Peyton   Mann,   Van Alstyne HS,   Van Alstyne,   21,   24     X   Alternate
+5.    Maddox   Michener,   Van Alstyne HS,   Van Alstyne,   20,   23.7     X  
+6.    Hazel   Hunter,   Bells HS,   Bells,   21,   23.5     X  
+7.    Sutherland   Lisa,   Bells HS,   Bells,   19,   23.2    
+8.    Logan   Johnson,   Blue Ridge HS,   Blue Ridge,   20,   23    
+9.    Hope   Beckett,   Van Alstyne HS,   Van Alstyne,   17,   17    
+10.    Lewis   Madison,   Bells HS,   Bells,   17,   17    
+11.    Taylor   Eli,   Bells HS,   Bells,   17,   17    
+12.    Joseph   Amaya,   Blue Ridge HS,   Blue Ridge,   16,   16    
+13.    Colin   Thomas,   Van Alstyne HS,   Van Alstyne,   16,   16    
+14.    Brayden   Skotnicki,   Blue Ridge HS,   Blue Ridge,   16,   16    
+15.    Michael   Magnus,   Leonard HS,   Leonard,   14,   14    
+16.    Abby   Cates,   Blue Ridge HS,   Blue Ridge,   12,   12    
+17.    Daniel   Vera,   Leonard HS,   Leonard,   12,   12    
+-Team Results-
+1.   Leonard HS   64     X   Region
+2.   Van Alstyne HS   58     X   Alternate
+3.   Bells HS   57   
+4.   Blue Ridge HS   52   
+
+
+
+ -- District 11 --
+ March 30, 2019, Madison HS, Dallas 
+-Individual Results-
+1.    Craig   Smith,   Harmony School of Innovation,   Fort Worth,   27,   33     X   Region
+2.    Emilio   AhuactzinGarcia,   Harmony School of Innovation,   Fort Worth,   30,   31     X   Region
+3.    Axel   Alvarez-Tostado,   Harmony School of Innovation,   Fort Worth,   23,   28     X   Region
+4.    Daniel   Macias,   Harmony School of Innovation,   Fort Worth,   27,   28     X   Alternate
+5.    Eddy   Palmares,   Madison HS,   Dallas,   21,   23     X  
+6.    KaTasia   Stroye,   Madison HS,   Dallas,   18,   19     X  
+7.    Darian   Dallas,   Madison HS,   Dallas,   12,   16    
+-Team Results-
+1.   Harmony School of Innovation   84     X   Region
+2.   Madison HS   51     X   Alternate
+
+
+
+ -- District 12 --
+ March 30, 2019, Grand Saline H S, Grand Saline 
+-Individual Results-
+1.    Nathan   Yeakel,   Rains H S,   Emory,   37,   44.6     X   Region
+2.    Jacob   Day,   Quitman HS,   Quitman,   37,   38     X   Region
+3.    Jeremy   Peek,   Quitman HS,   Quitman,   30,   37     X   Region
+4.    Kaden   West,   Alba-Golden HS,   Alba,   28,   32     X   Alternate
+5.    Anna   Reyna,   Mineola H S,   Mineola,   28,   29     X  
+6.    Grace   Hartman,   Edgewood HS,   Edgewood,   28,   28     X  
+7.    Anthony   Wilson,   Rains H S,   Emory,   22,   27    
+8.    Dein   Bettis,   Rains H S,   Emory,   22,   25    
+9.    Brennen   Walsh,   Lone Oak HS,   Lone Oak,   21,   21    
+10.    Joseph   Henson,   Edgewood HS,   Edgewood,   21,   21    
+11.    Jordan   Gable,   Rains H S,   Emory,   19,   19    
+12.    Calistie   Norris,   Grand Saline H S,   Grand Saline,   19,   19    
+13.    Selena   Ramirez,   Grand Saline H S,   Grand Saline,   19,   19    
+14.    Austin   Reynoso,   Grand Saline H S,   Grand Saline,   18,   18    
+15.    Addison   Prater,   Edgewood HS,   Edgewood,   17,   17    
+16.    Amanda   White,   Grand Saline H S,   Grand Saline,   17,   17    
+17.    Kyle   Wicai,   Lone Oak HS,   Lone Oak,   15,   15    
+18.    Mackenzie   Ragan,   Quitman HS,   Quitman,   15,   15    
+19.    Trinity   Kolo,   Mineola H S,   Mineola,   14,   14    
+20.    Dallas   Wilburn,   Lone Oak HS,   Lone Oak,   14,   14    
+21.    Taylor   Ihlenfeldt,   Mineola H S,   Mineola,   14,   14    
+22.    Luz   Tinajero,   Mineola H S,   Mineola,   11,   11    
+23.    Niles   Shoaff,   Lone Oak HS,   Lone Oak,   6,   6    
+-Team Results-
+1.   Quitman HS   82     X   Region
+2.   Rains H S   81     X   Alternate
+3.   Edgewood HS   66   
+4.   Mineola H S   56   
+5.   Grand Saline H S   56   
+6.   Lone Oak HS   50   
+
+
+
+ -- District 13 --
+ March 30, 2019, Winnsboro HS, Winnsboro 
+-Individual Results-
+1.    Lane   Fetke,   Chisum HS,   Paris,   34,   37.9     X   Region
+2.    Darlene   Ortega,   Mt Pleasant Chapel Hill HS,   Mt Pleasant,   25,   33     X   Region
+3.    Jonathan   Hernandez,   Cooper HS,   Cooper,   28,   31.9     X   Region
+4.    Kiersten   Sheer,   Mt Pleasant Chapel Hill HS,   Mt Pleasant,   25,   31     X   Alternate
+5.    Pierce   Rogers,   Cooper HS,   Cooper,   26,   31     X  
+6.    Trevor   Carr,   Mount Vernon H S,   Mount Vernon,   27,   30.9     X  
+7.    Ethan   Colley,   Cooper HS,   Cooper,   28,   29    
+8.    Logan   Cooney,   Mount Vernon H S,   Mount Vernon,   25,   27    
+9.    Juan   Marrero,   Chisum HS,   Paris,   24,   24    
+10.    Adam   Szepesi,   Winnsboro HS,   Winnsboro,   23,   23    
+11.    Haylee   Weems,   Winnsboro HS,   Winnsboro,   23,   23    
+12.    Harley   Anderson,   Mount Vernon H S,   Mount Vernon,   23,   23    
+13.    Evan   Martin,   Chisum HS,   Paris,   22,   22    
+14.    Jason   Ocampo,   Commerce HS,   Commerce,   21,   21    
+15.    Ashley   Ottman,   Mt Pleasant Chapel Hill HS,   Mt Pleasant,   18,   18    
+16.    Chandler   Hall,   Mount Vernon H S,   Mount Vernon,   18,   18    
+17.    Izzy   Rudin,   Commerce HS,   Commerce,   18,   18    
+18.    Kaden   Phinney,   Winnsboro HS,   Winnsboro,   17,   17    
+19.    Savanna   Goodrich,   Mt Pleasant Chapel Hill HS,   Mt Pleasant,   17,   17    
+20.    Katie   Marcos,   Commerce HS,   Commerce,   16,   16    
+21.    Rodney   Bridges,   Cooper HS,   Cooper,   15,   15    
+22.    Wesley   Estes,   Chisum HS,   Paris,   15,   15    
+23.    Dalton   Stanford,   Winnsboro HS,   Winnsboro,   13,   13    
+-Team Results-
+1.   Cooper HS   82     X   Region
+2.   Chisum HS   80     X   Alternate
+3.   Mount Vernon H S   75   
+4.   Mt Pleasant Chapel Hill HS   68   
+5.   Winnsboro HS   63   
+6.   Commerce HS   55   
+
+
+
+ -- District 14 --
+ March 30, 2019, Pewitt HS, Omaha 
+-Individual Results-
+1.    Macon   Williamson,   Pewitt HS,   Omaha,   33,   35.6     X   Region
+2.    Cade   Hicks,   Hooks H S,   Hooks,   33,   35.4     X   Region
+3.    Logan   Buck,   Hooks H S,   Hooks,   25,   32     X   Region
+4.    Bill   Stilson,   Redwater H S,   Redwater,   25,   31.5     X   Alternate
+5.    John Wiley   Hargrove,   Pewitt HS,   Omaha,   27,   31     X  
+6.    Sarah   Hunter,   New Boston H S,   New Boston,   26,   28     X  
+7.    Josh   Long,   Redwater H S,   Redwater,   22,   27    
+8.    Jayden   Baird,   Hooks H S,   Hooks,   22,   25.3    
+9.    Kason   Stringfellow,   Pewitt HS,   Omaha,   23,   25.1    
+10.    Ben   Willis,   New Boston H S,   New Boston,   22,   24    
+11.    Landyn   McLeod,   Redwater H S,   Redwater,   22,   23.5    
+12.    Jordan   Bowen,   Queen City HS,   Queen City,   21,   21    
+13.    Sam   Martin,   New Boston H S,   New Boston,   21,   21    
+14.    Cade   Fant,   Atlanta HS,   Atlanta,   21,   21    
+15.    Garrett   McCall,   Hooks H S,   Hooks,   20,   20    
+16.    Adam   Bowen,   Queen City HS,   Queen City,   18,   18    
+17.    Duke   Fitts,   Pewitt HS,   Omaha,   17,   17    
+18.    Dagen   Ward,   Atlanta HS,   Atlanta,   17,   17    
+19.    Chris   Keith,   Queen City HS,   Queen City,   17,   17    
+20.    Bo   Nadig,   Queen City HS,   Queen City,   17,   17    
+21.    Samantha   Winders,   Atlanta HS,   Atlanta,   17,   17    
+22.    Samantha   Prince,   De Kalb HS,   De Kalb,   17,   17    
+23.    Noah   Fernandez,   Redwater H S,   Redwater,   16,   16    
+24.    Gracie   Crain,   De Kalb HS,   De Kalb,   15,   15    
+25.    Kate   Adkins,   De Kalb HS,   De Kalb,   13,   13    
+26.    Mackenzie   Yaag,   Atlanta HS,   Atlanta,   4,   4    
+-Team Results-
+1.   Pewitt HS   83     X   Region
+2.   Hooks H S   80     X   Alternate
+3.   Redwater H S   69   
+4.   New Boston H S   69   
+5.   Queen City HS   56   
+6.   Atlanta HS   55   
+7.   De Kalb HS   45   
+
+
+
+ -- District 15 --
+ March 30, 2019, Hughes Springs HS, Hughes Springs 
+-Individual Results-
+1.    Chandler   Priddy,   Hughes Springs HS,   Hughes Springs,   35,   44     X   Region
+2.    Josh   Beasley,   Elysian Fields H S,   Elysian Fields,   30,   38     X   Region
+3.    Nolan A   Nail,   Tatum HS,   Tatum,   25,   33     X   Region
+4.    Jazmine   Johnson,   Jefferson HS,   Jefferson,   23,   32     X   Alternate
+5.    Sam   Qualls,   New Diana H S,   Diana,   24,   31.33     X  
+6.    Jaedan   Morris,   New Diana H S,   Diana,   23,   29     X  
+7.    Ellis   Carl,   New Diana H S,   Diana,   24,   25    
+8.    Cameron   Caudle,   Elysian Fields H S,   Elysian Fields,   23,   24    
+9.    Bryce   Johnston,   Hughes Springs HS,   Hughes Springs,   24,   24    
+10.    Mikey   Lanier,   Hughes Springs HS,   Hughes Springs,   21,   21    
+11.    Allan J   Flores,   Tatum HS,   Tatum,   21,   21    
+12.    Hailey   Deshotel,   Ore City H S,   Ore City,   18,   18    
+13.    Jennifer   Evans,   Daingerfield H S,   Daingerfield,   18,   18    
+14.    Preston   Lovaasen,   Elysian Fields H S,   Elysian Fields,   18,   18    
+15.    Lukas J   Lister,   Tatum HS,   Tatum,   17,   17    
+16.    Daizey   Easley,   Ore City H S,   Ore City,   16,   16    
+17.    Carson   Caudle,   Elysian Fields H S,   Elysian Fields,   15,   15    
+18.    Destiney   Tapia,   Ore City H S,   Ore City,   14,   14    
+19.    Nathaniel   Dancer,   Daingerfield H S,   Daingerfield,   14,   14    
+20.    Elaina   Langbartels,   Jefferson HS,   Jefferson,   14,   14    
+21.    Demontesia   Hendrix,   Daingerfield H S,   Daingerfield,   13,   13    
+22.   Ebony   Chalk,    Daingerfield H S,   Daingerfield,   12,   12    
+23.    Ethan   Stonecipher,   Ore City H S,   Ore City,   12,   12    
+24.    Gerald J   Chopak,   Tatum HS,   Tatum,   12,   12    
+25.    Hope   Zamarippa,   Hughes Springs HS,   Hughes Springs,   10,   10    
+-Team Results-
+1.   Hughes Springs HS   80     X   Region
+2.   Elysian Fields H S   71     X   Alternate
+3.   New Diana H S   71   
+4.   Tatum HS   63   
+5.   Ore City H S   48   
+6.   Daingerfield H S   45   
+
+
+
+ -- District 16 --
+ March 30, 2019, Troup HS, Troup 
+-Individual Results-
+1.    Sarah   Webb,   Sabine HS,   Gladewater,   31,   41     X   Region
+2.    Zach   Wise,   Gladewater H S,   Gladewater,   31,   39     X   Region
+3.    Harrison   Coleman,   Harmony H S,   Big Sandy,   32,   32     X   Region
+4.    Jose   Govea,   Sabine HS,   Gladewater,   28,   29.5     X   Alternate
+5.    Caleb   Sharpe,   White Oak HS,   White Oak,   26,   29     X  
+6.    Liley   Bozard,   Troup HS,   Troup,   29,   29     X  
+7.    Casey   Banks,   White Oak HS,   White Oak,   25,   27.5    
+8.    Coltin   Reed,   Sabine HS,   Gladewater,   24,   27.2    
+9.    Barret   Hill,   Harmony H S,   Big Sandy,   21,   21    
+10.    Jade   Thomas,   Gladewater H S,   Gladewater,   20,   20    
+11.    Austin   Mitchell,   Winona HS,   Winona,   20,   20    
+12.    Dylan   Dodson,   White Oak HS,   White Oak,   19,   19    
+13.    Wesley   McGarity,   Sabine HS,   Gladewater,   17,   17    
+14.    Isaac   Edwards,   Harmony H S,   Big Sandy,   16,   16    
+15.    Mackenzi   Green,   Winona HS,   Winona,   15,   15    
+16.    Alondra   Salinas,   Troup HS,   Troup,   13,   13    
+17.    Samantha   Ritchey,   Harmony H S,   Big Sandy,   13,   13    
+18.    Ben   Turner,   Gladewater H S,   Gladewater,   13,   13    
+19.    Rachael   Gibbs,   Winona HS,   Winona,   13,   13    
+20.    Alejandro   Martinez,   Winona HS,   Winona,   12,   12    
+-Team Results-
+1.   Sabine HS   83     X   Region
+2.   White Oak HS   70     X   Alternate
+3.   Harmony H S   69   
+4.   Gladewater H S   64   
+5.   Winona HS   48   
+
+
+
+ -- District 17 --
+ March 30, 2019, Grandview H S, Grandview 
+-Individual Results-
+1.    Katherine   Drennan,   Grandview H S,   Grandview,   35,   41     X   Region
+2.    Nathaniel   Baker,   Grandview H S,   Grandview,   30,   38     X   Region
+3.    Ellison   Li,   Clifton HS,   Clifton,   30,   38     X   Region
+4.    Nora   Williamson,   Grandview H S,   Grandview,   30,   37     X   Alternate
+5.    Cason   Quisenberry,   Grandview H S,   Grandview,   30,   36     X  
+6.    Amanda   Taylor,   Whitney HS,   Whitney,   30,   35     X  
+7.    Heithem   Azzain,   Clifton HS,   Clifton,   24,   31.9    
+8.    Brandon   Ernst,   Clifton HS,   Clifton,   24,   24    
+9.    Hailey   Routson,   West HS,   West,   20,   20    
+10.    Jeriah   Gray,   Rio Vista H S,   Rio Vista,   20,   20    
+11.    Christian   Kuykendall,   Whitney HS,   Whitney,   20,   20    
+12.    Krystanie   Cox,   West HS,   West,   19,   19    
+13.    Kaira   Swift,   Rio Vista H S,   Rio Vista,   18,   18    
+14.    Ethan   Stiff,   Clifton HS,   Clifton,   16,   16    
+15.    Hattie   Gregg,   Rio Vista H S,   Rio Vista,   16,   16    
+16.    Jesse   Nunez,   Whitney HS,   Whitney,   15,   15    
+17.    Noah   Petty,   Rio Vista H S,   Rio Vista,   14,   14    
+18.    Brayden   Richardson,   Whitney HS,   Whitney,   13,   13    
+-Team Results-
+1.   Grandview H S   95     X   Region
+2.   Clifton HS   78     X   Alternate
+3.   Whitney HS   65   
+4.   Rio Vista H S   54   
+
+
+
+ -- District 18 --
+ March 30, 2019, Rice HS, Rice 
+-Individual Results-
+1.    Jenny   Grubbs,   Rice HS,   Rice,   26,   35     X   Region
+2.    John W   Mabry,   Palmer H S,   Palmer,   29,   33     X   Region
+3.    Major   Riddle,   Mildred H S,   Corsicana,   24,   32.9     X   Region
+4.    Matt   Floyd,   Kemp HS,   Kemp,   26,   32.8     X   Alternate
+5.    Paige   Jennings,   Mildred H S,   Corsicana,   29,   29.4     X  
+6.    Madi   Wilbanks,   Malakoff HS,   Malakoff,   22,   27     X  
+7.    Alton D   Jones,   Palmer H S,   Palmer,   22,   26    
+8.    Benjamin   Lancon,   Palmer H S,   Palmer,   20,   20    
+9.    Mary   MacLeod,   Mildred H S,   Corsicana,   18,   18    
+10.    Rocio   Salazar,   Malakoff HS,   Malakoff,   18,   18    
+11.    Kaufman   Riddle,   Mildred H S,   Corsicana,   17,   17    
+12.    Audrey   Miles,   Blooming Grove HS,   Blooming Grove,   16,   16    
+13.    Claire   Kirk,   Blooming Grove HS,   Blooming Grove,   15,   15    
+14.    Kami   Johnson,   Malakoff HS,   Malakoff,   15,   15    
+15.    Andy   Haertel,   Kemp HS,   Kemp,   15,   15    
+16.    Haley   Jonas,   Malakoff HS,   Malakoff,   14,   14    
+17.    Miguel   Ortega,   Rice HS,   Rice,   14,   14    
+18.    Colby   Hunt,   Eustace H S,   Eustace,   13,   13    
+19.    Daniel   Grimes,   Blooming Grove HS,   Blooming Grove,   13,   13    
+20.    Josh   Gambrell,   Blooming Grove HS,   Blooming Grove,   13,   13    
+21.    Henry   Alpizar,   Rice HS,   Rice,   12,   12    
+22.    Ben   Barlow,   Rice HS,   Rice,   7,   7    
+-Team Results-
+1.   Mildred H S   71     X   Region
+2.   Palmer H S   71     X   Alternate
+3.   Malakoff HS   55   
+4.   Rice HS   52   
+5.   Blooming Grove HS   44   
+
+
+
+ -- District 19 --
+ March 30, 2019, Rogers H S, Rogers 
+-Individual Results-
+1.    Johnathan   Valdez,   McGregor H S,   McGregor,   31,   37     X   Region
+2.    Cade   Campbell,   Rogers H S,   Rogers,   32,   36     X   Region
+3.    Sam   Dutschmann,   McGregor H S,   McGregor,   32,   34     X   Region
+4.    William G.   Wilson,   Franklin H S,   Franklin,   26,   31.7     X   Alternate
+5.    Koye   Bleeker,   Rockdale H S,   Rockdale,   26,   31.2     X  
+6.    Julio   Chavez,   Academy HS,   Little River,   29,   29.7     X  
+7.    Braxton   Bowman,   Lexington H S,   Lexington,   26,   29    
+8.    Zulaika   Ali,   Academy HS,   Little River,   23,   25    
+9.    Colby   Green,   Yoe HS,   Cameron,   23,   23    
+10.    Brady   Boatwright,   Academy HS,   Little River,   22,   22    
+11.    Devon   Whitsel,   Rockdale H S,   Rockdale,   22,   22    
+12.    Troy   Glaser,   Rogers H S,   Rogers,   22,   22    
+13.    Tyler   Ballard,   Troy H S,   Troy,   21,   21    
+14.    Kincaid   Callahan,   Yoe HS,   Cameron,   20,   20    
+15.    Travis   Glaser,   Rogers H S,   Rogers,   20,   20    
+16.    Trey   Woods,   Lexington H S,   Lexington,   19,   19    
+17.    Colby   Barton,   Yoe HS,   Cameron,   19,   19    
+18.    Kadean   Rhodes,   Lexington H S,   Lexington,   19,   19    
+19.       Martinez,   Rockdale H S,   Rockdale,   19,   19    
+20.    Victoria   Williams,   Yoe HS,   Cameron,   19,   19    
+21.    Campbell   McCauley,   McGregor H S,   McGregor,   18,   18    
+22.    Tamryn   Medrano,   Troy H S,   Troy,   17,   17    
+23.    Kameron   Dakroub,   Academy HS,   Little River,   17,   17    
+24.    Stephanie   Boyte,   Lexington H S,   Lexington,   17,   17    
+25.    Aimee   Bowling,   McGregor H S,   McGregor,   16,   16    
+26.    Mercedi   Nieto,   Rockdale H S,   Rockdale,   14,   14    
+27.    Trevor   Glaser,   Rogers H S,   Rogers,   14,   14    
+28.    Rebecca   Allen,   Troy H S,   Troy,   8,   8    
+29.    Maya   Moreno,   Troy H S,   Troy,   8,   8    
+-Team Results-
+1.   McGregor H S   81     X   Region
+2.   Academy HS   74     X   Alternate
+3.   Rogers H S   74   
+4.   Rockdale H S   67   
+5.   Lexington H S   64   
+6.   Yoe HS   62   
+7.   Troy H S   46   
+
+
+
+ -- District 20 --
+ March 30, 2019, Teague HS, Teague 
+-Individual Results-
+1.    Hank   Johnson,   Teague HS,   Teague,   37,   42     X   Region
+2.    Mollie   Dittmar,   Buffalo HS,   Buffalo,   27,   35     X   Region
+3.    Riley   Malloy,   Groesbeck H S,   Groesbeck,   29,   33     X   Region
+4.    Hayley   Warner,   Elkhart H S,   Elkhart,   28,   32.6     X   Alternate
+5.    Leo   Banuelos,   Elkhart H S,   Elkhart,   27,   28.2     X  
+6.    Colby   Menefee,   Buffalo HS,   Buffalo,   27,   28     X  
+7.    Hunter   McDaniel,   Teague HS,   Teague,   21,   25.7    
+8.    Walker   Robison,   Crockett HS,   Crockett,   21,   23    
+9.    Nishit   Tailor,   Buffalo HS,   Buffalo,   18,   18    
+10.    Alyssa   Pruneda,   Elkhart H S,   Elkhart,   15,   15    
+11.    Moises   Rocha,   Groesbeck H S,   Groesbeck,   15,   15    
+12.    Emily   Allen,   Crockett HS,   Crockett,   15,   15    
+13.    Ty   Hale,   Groesbeck H S,   Groesbeck,   15,   15    
+14.    Jaylon   Gilford,   Crockett HS,   Crockett,   15,   15    
+15.    Nick   Brown,   Crockett HS,   Crockett,   11,   11    
+-Team Results-
+1.   Buffalo HS   72     X   Region
+2.   Elkhart H S   70     X   Alternate
+3.   Groesbeck H S   59   
+4.   Crockett HS   51   
+
+
+
+ -- District 21 --
+ March 30, 2019, Newton H S, Newton 
+-Individual Results-
+1.    Connor   Celestine,   Woodville HS,   Woodville,   34,   37     X   Region
+2.    Juliana   Duiker,   Central HS,   Pollok,   30,   34     X   Region
+3.    Addison   Causey,   Newton H S,   Newton,   28,   31     X   Region
+4.    Riley   Fisher,   Corrigan-Camden H S,   Corrigan,   26,   29     X   Alternate
+5.    Henry   Gibson,   Central Heights HS,   Nacogdoches,   28,   28.8     X  
+6.    Zachary   Dalton,   Woodville HS,   Woodville,   23,   27.7     X  
+7.    Andrew   Davis,   Pineywoods Community Academy,   Lufkin,   25,   27    
+8.    Cameron   Castilaw,   Central Heights HS,   Nacogdoches,   21,   24    
+9.    Wesley   Olds,   Pineywoods Community Academy,   Lufkin,   20,   20    
+10.    Jacob   Jolley,   Central Heights HS,   Nacogdoches,   19,   19    
+11.    Jordan   Engstrom,   Central Heights HS,   Nacogdoches,   18,   18    
+12.    Tyler   Seastrunk,   Newton H S,   Newton,   18,   18    
+13.    David   Thompson,   Corrigan-Camden H S,   Corrigan,   17,   17    
+14.    Shay   Galloway,   Hemphill H S,   Hemphill,   17,   17    
+15.    TK   Smith,   Corrigan-Camden H S,   Corrigan,   16,   16    
+16.    Allie   Davis,   Central HS,   Pollok,   16,   16    
+17.    Kristina   McMahon,   Newton H S,   Newton,   16,   16    
+18.    Dane   Hopson,   Pineywoods Community Academy,   Lufkin,   15,   15    
+19.    Madison   Knight,   Corrigan-Camden H S,   Corrigan,   15,   15    
+20.    Trey   Proctor,   Hemphill H S,   Hemphill,   15,   15    
+21.    Leah   Wilson,   Central HS,   Pollok,   14,   14    
+22.    Kaylie   Grimes,   Central HS,   Pollok,   9,   9    
+23.    Kendal   Wilroy,   Woodville HS,   Woodville,   9,   9    
+-Team Results-
+1.   Central Heights HS   68     X   Region
+2.   Woodville HS   66     X   Alternate
+3.   Newton H S   62   
+4.   Central HS   60   
+5.   Pineywoods Community Academy   60   
+6.   Corrigan-Camden H S   59   
+
+
+
+ -- District 22 --
+ March 30, 2019, Kountze H S, Kountze 
+-Individual Results-
+1.    Lee   Thornton,   East Chambers H S,   Winnie,   30,   36.5     X   Region
+2.    Kate   Wagner,   Anahuac HS,   Anahuac,   29,   34     X   Region
+3.    Michael   Slankard,   Hardin HS,   Hardin,   23,   32     X   Region
+4.    Ryan   Lott,   Warren HS,   Warren,   28,   32     X   Alternate
+5.    Tanner   Dale,   East Chambers H S,   Winnie,   25,   31.5     X  
+6.    Jacob   Murphy,   Kountze H S,   Kountze,   22,   29     X  
+7.    Dylan   Jircik,   Anahuac HS,   Anahuac,   21,   26    
+8.    Bryce   Strange,   Warren HS,   Warren,   20,   22    
+9.    Jeremy   Lott,   Hardin HS,   Hardin,   18,   18    
+10.    Blane   Daugherty,   Anahuac HS,   Anahuac,   18,   18    
+11.    Tyler   Schexsnaider,   East Chambers H S,   Winnie,   18,   18    
+12.    Mark   Davis,   Buna HS,   Buna,   18,   18    
+13.    Alexis   Manzano,   Warren HS,   Warren,   17,   17    
+14.    Brayden   Burgess,   Orangefield H S,   Orangefield,   17,   17    
+15.    Makenna   Lapeyrolerie,   Orangefield H S,   Orangefield,   17,   17    
+16.    Brandon   Gordan,   Kountze H S,   Kountze,   17,   17    
+17.    Shae   Nugent,   Orangefield H S,   Orangefield,   16,   16    
+18.    Jaime   Hernandez,   Hardin HS,   Hardin,   16,   16    
+19.    Jocelyn   Rodriguez,   East Chambers H S,   Winnie,   15,   15    
+20.    Ely   Whisenhant,   Kountze H S,   Kountze,   15,   15    
+21.    Hannah   Edwards,   Anahuac HS,   Anahuac,   15,   15    
+22.    Rachel   Midkiff,   Buna HS,   Buna,   15,   15    
+23.    Eric   Bean,   Kirbyville H S,   Kirbyville,   15,   15    
+24.    Justan   Stanley,   Kountze H S,   Kountze,   13,   13    
+25.    Aaron   Lee,   Hardin HS,   Hardin,   13,   13    
+26.    Aimee   Strange,   Warren HS,   Warren,   12,   12    
+27.    Kyler   Stark,   Buna HS,   Buna,   11,   11    
+28.    Lillyan   Whittle,   Kirbyville H S,   Kirbyville,   11,   11    
+29.    Lindsey   Romero,   Orangefield H S,   Orangefield,   10,   10    
+-Team Results-
+1.   East Chambers H S   73     X   Region
+2.   Anahuac HS   68     X   Alternate
+3.   Warren HS   65   
+4.   Hardin HS   57   
+5.   Kountze H S   54   
+6.   Orangefield H S   50   
+7.   Buna HS   44   
+
+
+
+ -- District 23 --
+ March 30, 2019, Anderson-Shiro HS, Anderson 
+-Individual Results-
+1.    Meghan   Schramm,   Anderson-Shiro HS,   Anderson,   27,   34     X   Region
+2.    Kyle   Cangami,   Onalaska,   Onalaska,   24,   33.2     X   Region
+3.    Rebecca   Cartwright,   Anderson-Shiro HS,   Anderson,   21,   26     X   Region
+4.    Abigail   Thomas,   Coldspring-Oakhurst HS,   Coldspring,   23,   26     X   Alternate
+5.    Brooklyn   Turner,   Onalaska,   Onalaska,   22,   25.6     X  
+6.    Braylen   Laymon,   New Waverly H S,   New Waverly,   20,   25     X  
+7.    Brayden   Greer,   Trinity HS,   Trinity,   21,   23    
+8.    Hannah   Kowis,   New Waverly H S,   New Waverly,   21,   22.9    
+9.    Ashley   Billnoske,   New Waverly H S,   New Waverly,   19,   19    
+10.    Paton   Mauldin,   Trinity HS,   Trinity,   18,   18    
+11.    Peyton   Leftwich,   Trinity HS,   Trinity,   17,   17    
+12.    McKenna   Holloway,   Anderson-Shiro HS,   Anderson,   16,   16    
+13.    Emilio   Cleveland,   Trinity HS,   Trinity,   16,   16    
+14.    Morgan   Smith,   New Waverly H S,   New Waverly,   15,   15    
+15.    Logan   Batson,   Anderson-Shiro HS,   Anderson,   15,   15    
+16.    Darcey   Scott,   Coldspring-Oakhurst HS,   Coldspring,   15,   15    
+17.    Kylie   East,   Onalaska,   Onalaska,   13,   13    
+-Team Results-
+1.   Anderson-Shiro HS   64     X   Region
+2.   New Waverly H S   60     X   Alternate
+3.   Onalaska   59   
+4.   Trinity HS   56   
+
+
+
+ -- District 24 --
+ March 30, 2019, Van Vleck HS, Van Vleck 
+-Individual Results-
+1.    Joseph   Villanueva,   Van Vleck HS,   Van Vleck,   33,   37     X   Region
+2.    Brett   Neabauer,   Danbury H S,   Danbury,   33,   37     X   Region
+3.    Mercedes   White,   Boling HS,   Boling,   27,   34     X   Region
+4.   Reese   Ryan,    Danbury H S,   Danbury,   26,   31.4     X   Alternate
+5.    Jackson   Engel,   Palacios H S,   Palacios,   25,   31     X  
+6.    Sara   Sudano,   Danbury H S,   Danbury,   27,   30     X  
+7.    Abigail   Sellers,   East Bernard H S,   East Bernard,   23,   29    
+8.    Daniel   Zamora,   Palacios H S,   Palacios,   26,   27    
+9.    Joshua-Ray   Villanueva,   Van Vleck HS,   Van Vleck,   22,   22    
+10.    Macy   Wilson,   Palacios H S,   Palacios,   21,   21    
+11.    Rina   Bowers,   East Bernard H S,   East Bernard,   20,   20    
+12.    Mya   Evans,   Hitchcock H S,   Hitchcock,   20,   20    
+13.    Melody   Yates,   Van Vleck HS,   Van Vleck,   20,   20    
+14.    Logan   Baylor,   Tidehaven HS,   El Maton,   20,   20    
+15.    Jeffrey   Calhoun,   Tidehaven HS,   El Maton,   20,   20    
+16.    Taylor   Cordoba,   Van Vleck HS,   Van Vleck,   20,   20    
+17.    Sydney   Sandoval,   East Bernard H S,   East Bernard,   19,   19    
+18.    Payton   Peloquin,   East Bernard H S,   East Bernard,   19,   19    
+19.    Coltin   Foster,   Danbury H S,   Danbury,   18,   18    
+20.    Yatziri   Ramirez,   Boling HS,   Boling,   18,   18    
+21.    Alex   Alvarado,   Hitchcock H S,   Hitchcock,   18,   18    
+22.    Soria   Jones,   Hitchcock H S,   Hitchcock,   17,   17    
+23.    Kaiden   DeWoody,   Tidehaven HS,   El Maton,   16,   16    
+24.    Clementine   Bartos,   Boling HS,   Boling,   15,   15    
+25.    Lyric   Hunter,   Hitchcock H S,   Hitchcock,   13,   13    
+26.    Reed   Bowers,   Palacios H S,   Palacios,   12,   12    
+27.    Jason   Mach,   Boling HS,   Boling,   11,   11    
+-Team Results-
+1.   Danbury H S   78     X   Region
+2.   Van Vleck HS   75     X   Alternate
+3.   Palacios H S   72   
+4.   East Bernard H S   62   
+5.   Boling HS   60   
+6.   Tidehaven HS   56   
+7.   Hitchcock H S   55   
+
+
+
+ -- District 25 --
+ March 30, 2019, Florence H S, Florence 
+-Individual Results-
+1.    Philip   Schneider,   Johnson (LBJ) HS,   Johnson City,   31,   41     X   Region
+2.    Bryce   Arrell,   Blanco HS,   Blanco,   25,   34     X   Region
+3.    John   Kainer,   Blanco HS,   Blanco,   24,   33     X   Region
+4.    Ariel   Abrams,   Jarrell H S,    Jarrell,   29,   31.5     X   Alternate
+5.    McKenzie   Kelly,   Lago Vista HS,   Lago Vista,   24,   31.33     X  
+6.    Elizabeth   Wheeler,   Blanco HS,   Blanco,   29,   31     X  
+7.    Carissa   Huntsberger,   Jarrell H S,   Jarrell,   23,   27    
+8.    Anna   Beliveau,   Blanco HS,   Blanco,   21,   24    
+9.    Connor   Kammlah,   Jarrell H S,   Jarrell,   19,   19    
+10.    Nolan   Bing,   Lago Vista HS,   Lago Vista,   19,   19    
+11.    Ben   Vogel,   Lago Vista HS,   Lago Vista,   17,   17    
+12.    Ethan   Jones,   Johnson (LBJ) HS,   Johnson City,   17,   17    
+13.    Hristov   Thomas,   Lago Vista HS,   Lago Vista,   17,   17    
+14.    Eric   Grim,   Florence H S,   Florence,   17,   17    
+15.    Caleb   Hammet,   Jarrell H S,   Jarrell,   12,   12    
+-Team Results-
+1.   Blanco HS   78     X   Region
+2.   Jarrell H S   71     X   Alternate
+3.   Lago Vista HS   60   
+
+
+
+ -- District 26 --
+ March 30, 2019, Ingram Tom Moore HS, Ingram 
+-Individual Results-
+1.    Mason   Bluhm,   BASIS Shavano HS,   San Antonio,   31,   41     X   Region
+2.    Iziah   Donnell,   Ingram Tom Moore HS,   Ingram,   28,   33     X   Region
+3.    Samuel   Mueller,   Randolph HS,   Universal City,   26,   31     X   Region
+4.    Charles   Bocock VI,   Ingram Tom Moore HS,   Ingram,   19,   28.9     X   Alternate
+5.    Nicholas   Bernal,   Randolph HS,   Universal City,   19,   28.9     X  
+6.    Charles   Reynolds,   Marion HS,   Marion,   20,   26     X  
+7.    Jennifer   Rodriguez,   Ingram Tom Moore HS,   Ingram,   26,   26    
+8.    Iiam   Hammock,   Cole HS,   San Antonio,   22,   25    
+9.    Branimir   Gore,   BASIS Shavano HS,   San Antonio,   20,   24.8    
+10.    Connor   Clements,   BASIS Shavano HS,   San Antonio,   17,   17    
+11.    Maddisen   Contreras,   Cole HS,   San Antonio,   17,   17    
+12.    Kaleb   Salinas,   Ingram Tom Moore HS,   Ingram,   17,   17    
+13.    Luke   Balenciefen,   Comfort HS,   Comfort,   15,   15    
+14.    Laura   DeLeon,   Cole HS,   San Antonio,   13,   13    
+-Team Results-
+1.   Ingram Tom Moore HS   73     X   Region
+2.   BASIS Shavano HS   68     X   Alternate
+3.   Cole HS   52   
+
+
+
+ -- District 27 --
+ March 30, 2019, Poth HS, Poth 
+-Individual Results-
+1.    Miles   Korzekwa,   Poth HS,   Poth,   32,   36     X   Region
+2.    Ryan   Claycamp,   Stockdale HS,   Stockdale,   29,   31     X   Region
+3.    Caleb   McKinney,   Poth HS,   Poth,   19,   27     X   Region
+4.    Alexis   Sanchez,   Stockdale HS,   Stockdale,   26,   27     X   Alternate
+5.    Noah   Clapp,   Stockdale HS,   Stockdale,   24,   26.5     X  
+6.    Cotter   Simpson,   Stockdale HS,   Stockdale,   19,   25     X  
+7.    Wesley   Zumwalt,   Luling HS,   Luling,   19,   24    
+8.    Kaylin   Yanta,   Poth HS,   Poth,   17,   23    
+9.    Kevin   Zaiontz,   Poth HS,   Poth,   17,   19    
+10.    Kaleb   Warren,   Luling HS,   Luling,   15,   15    
+11.    Anson   Whitman,   Luling HS,   Luling,   15,   15    
+-Team Results-
+1.   Stockdale HS   79     X   Region
+2.   Poth HS   68     X   Alternate
+3.   Luling HS   49   
+
+
+
+ -- District 28 --
+ March 30, 2019, Schulenburg H S, Schulenburg 
+-Individual Results-
+1.    Andrew   Schobel,   Columbus HS,   Columbus,   29,   38     X   Region
+2.    Dustin   Parker,   Rice H S,   Altair,   24,   32     X   Region
+3.    Celestial   Losoya,   Rice H S,   Altair,   24,   30     X   Region
+4.    Lawson   Davis,   Industrial H S,   Vanderbilt,   24,   30     X   Alternate
+5.    Sidisidro   Lopez,   Edna H S,   Edna,   26,   29     X  
+6.   Tyler   Opiela,    Hallettsville H S,   Hallettsville,   23,   27     X  
+7.    Austin   Black,   Edna H S,   Edna,   23,   26    
+8.    Jackson   Roensch,   Columbus HS,   Columbus,   24,   26    
+9.    Sean   Petrosky,   Columbus HS,   Columbus,   24,   25    
+10.    Jeffery D   Fellers,   Industrial H S,   Vanderbilt,   23,   24    
+11.    John   Hoelscher,   Rice H S,   Altair,   21,   21    
+12.    Sophie   Oliver,   Schulenburg H S,   Schulenburg,   21,   21    
+13.    Blaine   Allen,   Industrial H S,   Vanderbilt,   20,   20    
+14.    Jazlyn   Castro,   Bloomington HS,   Bloomington,   20,   20    
+15.    Damian   Vasquez,   Bloomington HS,   Bloomington,   19,   19    
+16.    Marcos   Gonzalez,   Bloomington HS,   Bloomington,   18,   18    
+17.    Abby   Wellborn,   Schulenburg H S,   Schulenburg,   18,   18    
+18.    Connor   Herzik,   Schulenburg H S,   Schulenburg,   17,   17    
+19.    Brett   Janacek,   Schulenburg H S,   Schulenburg,   17,   17    
+20.    Jaylen   Toro,   Columbus HS,   Columbus,   16,   16    
+21.    Derek   Black,   Edna H S,   Edna,   16,   16    
+22.    John   Carey,   Rice H S,   Altair,   16,   16    
+23.    Misheel   Khashchuluum,   Edna H S,   Edna,   15,   15    
+24.    Nicole   Henderson-Escam,   Industrial H S,   Vanderbilt,   15,   15    
+-Team Results-
+1.   Columbus HS   77     X   Region
+2.   Rice H S   69     X   Alternate
+3.   Industrial H S   67   
+4.   Edna H S   65   
+5.   Bloomington HS   57   
+6.   Schulenburg H S   56   
+
+
+
+ -- District 29 --
+ March 30, 2019, Skidmore-Tynan HS, Skidmore 
+-Individual Results-
+1.    Mateo   Martinez,   Goliad H S,   Goliad,   30,   35.2     X   Region
+2.    Madison   Gonzalez-Voris,   Skidmore-Tynan HS,   Skidmore,   25,   32.5     X   Region
+3.    Kate   Davis,   George West HS,   George West,   25,   31     X   Region
+4.    Harleigh   Goebel,   George West HS,   George West,   23,   27     X   Alternate
+5.    Zachary   Putnam,   Skidmore-Tynan HS,   Skidmore,   22,   25     X  
+6.    Grace   Schubert,   Goliad H S,   Goliad,   23,   25     X  
+7.    Salinas   Ezekiel,   Mathis HS,   Mathis,   21,   24    
+8.    Abigail   Martinez,   Skidmore-Tynan HS,   Skidmore,   22,   23    
+9.    Zowie   Villarreal,   Mathis HS,   Mathis,   20,   20    
+10.    Christopher   Medrano,   Mathis HS,   Mathis,   20,   20    
+11.    Jake   Billo,   Goliad H S,   Goliad,   20,   20    
+12.    Jhan   Baldovino,   Skidmore-Tynan HS,   Skidmore,   19,   19    
+13.    Krista   Villalobos,   Taft HS,   Taft,   19,   19    
+14.    Lauren   Dominguez,   Odem HS,   Odem,   17,   17    
+15.    Isabella   Garza,   George West HS,   George West,   17,   17    
+16.    Daniella   Sierra,   Goliad H S,   Goliad,   17,   17    
+17.    Kaylee   Puentes,   Taft HS,   Taft,   16,   16    
+18.    Ben   Chadwick,   Aransas Pass HS,   Aransas Pass,   15,   15    
+19.    Samantha   Gonzales,   Taft HS,   Taft,   15,   15    
+20.    Jo-Leeza   Morin,   George West HS,   George West,   13,   13    
+21.    Marcos   Cerda,   Taft HS,   Taft,   13,   13    
+22.    Joceline   Martinez,   Aransas Pass HS,   Aransas Pass,   13,   13    
+-Team Results-
+1.   Goliad H S   73     X   Region
+2.   Skidmore-Tynan HS   69     X   Alternate
+3.   George West HS   65   
+4.   Mathis HS   61   
+5.   Taft HS   50   
+
+
+
+ -- District 30 --
+ March 30, 2019, Dilley HS, Dilley 
+-Individual Results-
+1.    Ryan   Bailey,   Jourdanton HS,   Jourdanton,   30,   38     X   Region
+2.    Joshua   Alvarez,   Jourdanton HS,   Jourdanton,   26,   34     X   Region
+3.    Chloe   Ramirez,   Cotulla HS,   Cotulla,   25,   33     X   Region
+4.    Luke   Jordan,   Jourdanton HS,   Jourdanton,   26,   31     X   Alternate
+5.    Charles   Rudziewicz,   Dilley HS,   Dilley,   24,   29     X  
+6.    Noah   Gilkey,   Natalia H S,   Natalia,   22,   28.6     X  
+7.    Anissa   Morales,   Natalia H S,   Natalia,   23,   27    
+8.    Kaelyn   Lara,   Natalia H S,   Natalia,   22,   23    
+9.    Hayden   Schmidt,   Jourdanton HS,   Jourdanton,   21,   21    
+10.    Kodiak   Guajardo,   Dilley HS,   Dilley,   21,   21    
+11.    Kayla   Perez,   Cotulla HS,   Cotulla,   16,   16    
+12.    Diego   Cordova,   Dilley HS,   Dilley,   15,   15    
+13.    Richard   Sanchez,   Cotulla HS,   Cotulla,   12,   12    
+14.    Marc Anthony   Kiniskey,   Cotulla HS,   Cotulla,   12,   12    
+15.    Ruben   Martel,   Dilley HS,   Dilley,   10,   10    
+-Team Results-
+1.   Jourdanton HS   82     X   Region
+2.   Natalia H S   67     X   Alternate
+3.   Dilley HS   60   
+4.   Cotulla HS   53   
+
+
+
+ -- District 31 --
+ March 30, 2019, Santa Gertrudis Academy HS, Kingsville 
+-Individual Results-
+1.    Corey   Lazo,   San Diego HS,   San Diego,   28,   35.3     X   Region
+2.    Izabella   Torres,   San Diego HS,   San Diego,   25,   35     X   Region
+3.    Matthew   Sun,   London HS,   Corpus Christi,   34,   35     X   Region
+4.    Jesus   Rivas-Villarral,   Santa Gertrudis Academy HS,   Kingsville,   25,   31     X   Alternate
+5.    Aidan   Cardona,   Santa Gertrudis Academy HS,   Kingsville,   28,   29.8     X  
+6.    Luke   Haner,   Hebbronville HS,   Hebbronville,   26,   28.5     X  
+7.    Dillon   Janosek,   London HS,   Corpus Christi,   27,   28    
+8.    Emily   Abrego,   London HS,   Corpus Christi,   26,   27.4    
+9.    Noah   Estes,   Santa Gertrudis Academy HS,   Kingsville,   24,   24    
+10.    Luis   Soliz,   San Diego HS,   San Diego,   23,   23    
+11.   Nicholas   Gonzalez,    Hebbronville HS,   Hebbronville,   23,   23    
+12.   Omar   Moreno,    Falfurrias H S,   Falfurrias,   20,   20    
+13.    Alishba   Kazmi,   London HS,   Corpus Christi,   19,   19    
+14.    Isaak   Salinas,   Falfurrias H S,   Falfurrias,   19,   19    
+15.    Isabella   Orona,   Banquete HS,   Banquete,   18,   18    
+16.    Katalina   Garza,   Falfurrias H S,   Falfurrias,   12,   12    
+17.    Erasmo   Alarcon,   Hebbronville HS,   Hebbronville,   11,   11    
+18.    Alexis   Elizalde,   Hebbronville HS,   Hebbronville,   10,   10    
+-Team Results-
+1.   London HS   87     X   Region
+2.   Santa Gertrudis Academy HS   77     X   Alternate
+3.   San Diego HS   76   
+4.   Hebbronville HS   47   
+
+
+
+ -- District 32 --
+ March 30, 2019, Santa Rosa HS, Santa Rosa 
+-Individual Results-
+1.    Anthony   Zuniga,   Lyford H S,   Lyford,   33,   42     X   Region
+2.    Aaron   Ratliff,   Lyford H S,   Lyford,   33,   35     X   Region
+3.    Bryan   Rodriguez,   Santa Rosa HS,   Santa Rosa,   29,   34     X   Region
+4.    Joshua   Gonzalez,   IDEA Quest College Prep,   Edinburg,   25,   32     X   Alternate
+5.    Andrew   Ruiz,   IDEA Quest College Prep,   Edinburg,   23,   28     X  
+6.    Karen   Soto,   IDEA College Prep,   Alamo,   25,   28     X  
+7.    Julian   Anderson,   Lyford H S,   Lyford,   23,   26    
+8.    Javier   Cantu,   IDEA Quest College Prep,   Edinburg,   20,   21    
+-Team Results-
+1.   Lyford H S   89   X   Region
+2.   IDEA Quest College Prep   68   X   Alternate
+
+
+
+ -- Region 1 --
+ April 14 2019, Abilene Christian University  
+-Individual Results-
+1.    Dylan   Caddell,   Idalou H S,   Idalou,   31,   40.5     X   State
+2.    Grayson   Glidewell,   Coahoma HS,   Coahoma,   31,   39     X   State
+3.    Maddie   Reynolds,   Holliday H S,    Holliday,   31,   38     X   State
+4.    Kenesaw   Stephens,   Idalou H S,   Idalou,   29,   37.5     X   Alternate
+5.    Logan   Schlegel,   Holliday H S,    Holliday,   32,   37     X  
+6.    Mariana   Pina,   Friona H S,   Friona,   27,   36.9     X  
+7.    Colten   Ellis,   Holliday H S,    Holliday,   27,   33.7    
+8.    Alex   Moreno,   Canadian HS,   Canadian,   30,   32.5    
+9.    Drew   McGehee,   Idalou H S,   Idalou,   27,   30.2    
+10.    Sloan   Dominguez,   Friona H S,   Friona,   26,   26    
+11.    Everett   Herrington,   Idalou H S,   Idalou,   26,   26    
+12.    Nathan   Sullivan,   Abernathy HS,   Abernathy,   26,   26    
+13.    Katelyn   Lilley,   Alpine HS,   Alpine,   26,   26    
+14.    Gus   Allen,   Coleman HS,   Coleman,   26,   26    
+15.    Stephen   Pulliam,   Canadian HS,   Canadian,   25,   25    
+16.    Caelan   Devine Ryan,   Alpine HS,   Alpine,   25,   25    
+17.    Alex   Smith,   Canadian HS,   Canadian,   24,   24    
+18.    Andres   Montana,   Friona H S,   Friona,   24,   24    
+19.    Caden   House,   Shallowater HS,    Shallowater,   24,   24    
+20.    Micaela   Hernandez,   Kermit H S,   Kermit,   24,   24    
+21.    Jayden   Hostetter,   Ballinger HS,   Ballinger,   24,   24    
+22.    Jett   Vann,   Coleman HS,   Coleman,   24,   24    
+23.    Christian   DeLuna,   Reagan County HS,   Big Lake,   23,   23    
+24.    Cooper   Taylor,   Holliday H S,    Holliday,   22,   22    
+25.    Emily   Cummings,   Brock HS,   Brock,   21,   21    
+26.    Cydney   Carr,   Brock HS,   Brock,   21,   21    
+27.    Damian   Rodriguez,   Friona H S,   Friona,   20,   20    
+28.    Zane   Shoemaker,   Alpine HS,   Alpine,   20,   20    
+29.    Sage   Wash,   Alpine HS,   Alpine,   20,   20    
+30.    Isaac   Bonilla,   Reagan County HS,   Big Lake,   20,   20    
+31.    Gage   Sikes,   Coleman HS,   Coleman,   20,   20    
+32.    Jessie   Laposky,   Brock HS,   Brock,   20,   20    
+33.    Mallak   Adell,   Brock HS,   Brock,   20,   20    
+34.    Ashley   Zook,   Sonora HS,   Sonora,   19,   19    
+35.    Darcy   Meier,   Merkel H S,   Merkel,   19,   19    
+36.    Amy   Guo,   Coahoma HS,   Coahoma,   19,   19    
+37.    Joseph   Trent,   Eastland H S,   Eastland,   19,   19    
+38.    Grace   Abraham,   Canadian HS,   Canadian,   18,   18    
+39.    Wyatt   Puryear,   Coleman HS,   Coleman,   17,   17    
+40.    Rey   Portales,   Reagan County HS,   Big Lake,   16,   16    
+41.    Tristan   Ortiz,   Reagan County HS,   Big Lake,   16,   16    
+42.    Maliyah   Martinez,   Coahoma HS,   Coahoma,   16,   16    
+43.    Maggie   Guo,   Coahoma HS,   Coahoma,   12,   12    
+-Team Results-
+1.   Holliday H S   90     X   State
+2.   Idalou H S   87     X   Alternate
+3.   Canadian HS   79   
+4.   Friona H S   77   
+5.   Alpine HS   71   
+6.   Coleman HS   70   
+7.   Coahoma HS   66   
+8.   Brock HS   62   
+9.   Reagan County HS   59   
+
+
+
+ -- Region 2 --
+ April 14 2019, Tyler Junior College, Tyler  
+-Individual Results-
+1.    Mariah   Fisher,   Callisburg HS,   Gainesville,   34,   43.8     X   State
+2.    Garrett   True,   Pilot Point HS,   Pilot Point,   31,   40.5     X   State
+3.    Josh   Beasley,   Elysian Fields H S,   Elysian Fields,   31,   40     X   State
+4.    Jeremy   Peek,   Quitman HS,   Quitman,   33,   40     X   Alternate
+5.    Jose   Govea,   Sabine HS,   Gladewater,   32,   39     X  
+6.    Ethan   Colley,   Cooper HS,   Cooper,   32,   37     X  
+7.    Nathan   Yeakel,   Rains H S,   Emory,   32,   36    
+8.    Lane   Fetke,   Chisum HS,   Paris,   32,   35    
+9.    Cade   Hicks,   Hooks H S,   Hooks,   31,   34    
+10.    Emilio   AhuactzinGarcia,   Harmony School of Innovation,   Fort Worth,   32,   34    
+11.    Kenzi   Cole,   S & S Consolidated HS,   Sadler,   30,   30    
+12.    Kimberly   Burns,   Pilot Point HS,   Pilot Point,   30,   30    
+13.    Harrison   Coleman,   Harmony H S,   Big Sandy,   30,   30    
+14.    Dein   Bettis,   Rains H S,   Emory,   29,   29    
+15.    Pierce   Rogers,   Cooper HS,   Cooper,   29,   29    
+16.    Jonathan   Hernandez,   Cooper HS,   Cooper,   29,   29    
+17.    Macon   Williamson,   Pewitt HS,   Omaha,   29,   29    
+18.    Daniel   Macias,   Harmony School of Innovation,   Fort Worth,   28,   28    
+19.    Duke   Fitts,   Pewitt HS,   Omaha,   28,   28    
+20.    Sarah   Webb,   Sabine HS,   Gladewater,   28,   28    
+21.    Zach   Wise,   Gladewater H S,   Gladewater,   28,   28    
+22.    Chandler   Priddy,   Hughes Springs HS,   Hughes Springs,   27,   27    
+23.    Justin   Estes,   Whitesboro HS,   Whitesboro,   26,   26    
+24.    Kason   Stringfellow,   Pewitt HS,   Omaha,   26,   26    
+25.    John Wiley   Hargrove,   Pewitt HS,   Omaha,   26,   26    
+26.    Nolan A   Nail,   Tatum HS,   Tatum,   25,   25    
+27.    Caleb   Lankford,   Howe HS,   Howe,   24,   24    
+28.    Bryce   Johnston,   Hughes Springs HS,   Hughes Springs,   24,   24    
+29.    Craig   Smith,   Harmony School of Innovation,   Fort Worth,   23,   23    
+30.    Brian   Paine,   Leonard HS,   Leonard,   22,   22    
+31.    Jacob   Day,   Quitman HS,   Quitman,   22,   22    
+32.    Logan   Buck,   Hooks H S,   Hooks,   22,   22    
+33.    Alex   Pool,   Pilot Point HS,   Pilot Point,   20,   20    
+34.    Bryson   Cook,   Leonard HS,   Leonard,   20,   20    
+35.    Axel   Alvarez-Tostado,   Harmony School of Innovation,   Fort Worth,   20,   20    
+36.    Anthony   Wilson,   Rains H S,   Emory,   20,   20    
+37.    Mikey   Lanier,   Hughes Springs HS,   Hughes Springs,   20,   20    
+38.    Darlene   Ortega,   Mt Pleasant Chapel Hill HS,   Mt Pleasant,   19,   19    
+39.    Coltin   Reed,   Sabine HS,   Gladewater,   19,   19    
+40.    Savanna   Hodnett,   Pilot Point HS,   Pilot Point,   18,   18    
+41.    Michael   Magnus,   Leonard HS,   Leonard,   16,   16    
+42.    Rodney   Bridges,   Cooper HS,   Cooper,   15,   15    
+43.    Wesley   McGarity,   Sabine HS,   Gladewater,   13,   13    
+44.    Daniel   Vera,   Leonard HS,   Leonard,   12,   12    
+45.    Jordan   Gable,   Rains H S,   Emory,   12,   12    
+46.    Mackenzie   Ragan,   Quitman HS,   Quitman,   12,   12    
+47.    Hope   Zamarippa,   Hughes Springs HS,   Hughes Springs,   12,   12    
+-Team Results-
+1.   Cooper HS   90     X   State
+2.   Pewitt HS   83     X   Alternate
+3.   Harmony School of Innovation   83   
+4.   Pilot Point HS   81   
+5.   Rains H S   81   
+6.   Sabine HS   79   
+7.   Hughes Springs HS   71   
+8.   Quitman HS   67   
+9.   Leonard HS   58   
+
+
+
+ -- Region 3 --
+ April 14 2019, Blinn College, Brenham Campus  
+-Individual Results-
+1.    Mercedes   White,   Boling HS,   Boling,   31,   41     X   State
+2.    Kate   Wagner,   Anahuac HS,   Anahuac,   31,   40.5     X   State
+3.    Nathaniel   Baker,   Grandview H S,   Grandview,   31,   40     X   State
+4.    Riley   Malloy,   Groesbeck H S,   Groesbeck,   31,   39.9     X   Alternate
+5.    John W   Mabry,   Palmer H S,   Palmer,   31,   39     X  
+6.    Mollie   Dittmar,   Buffalo HS,   Buffalo,   31,   39     X  
+7.    Hank   Johnson,   Teague HS,   Teague,   31,   38.4    
+8.    Johnathan   Valdez,   McGregor H S,   McGregor,   31,   38.3    
+9.    Joseph   Villanueva,   Van Vleck HS,   Van Vleck,   35,   38    
+10.    Katherine   Drennan,   Grandview H S,   Grandview,   32,   35    
+11.    Ellison   Li,   Clifton HS,   Clifton,   30,   30    
+12.    Sam   Dutschmann,   McGregor H S,   McGregor,   30,   30    
+13.    Cason   Quisenberry,   Grandview H S,   Grandview,   29,   29    
+14.    Paige   Jennings,   Mildred H S,   Corsicana,   29,   29    
+15.    Jenny   Grubbs,   Rice HS,   Rice,   29,   29    
+16.    Cade   Campbell,   Rogers H S,   Rogers,   29,   29    
+17.    Lee   Thornton,   East Chambers H S,   Winnie,   29,   29    
+18.    Meghan   Schramm,   Anderson-Shiro HS,   Anderson,   29,   29    
+19.    Connor   Celestine,   Woodville HS,   Woodville,   28,   28    
+20.    Nora   Williamson,   Grandview H S,   Grandview,   27,   27    
+21.    Colby   Menefee,   Buffalo HS,   Buffalo,   27,   27    
+22.    Brett   Neabauer,   Danbury H S,   Danbury,   27,   27    
+23.    Brandon   Ernst,   Clifton HS,   Clifton,   26,   26    
+24.    Major   Riddle,   Mildred H S,   Corsicana,   26,   26    
+25.    Michael   Slankard,   Hardin HS,   Hardin,   26,   26    
+26.    Jocelyn   Rodriguez,   East Chambers H S,   Winnie,   25,   25    
+27.    Kyle   Cangami,   Onalaska,   Onalaska,   24,   24    
+28.    Addison   Causey,   Newton H S,   Newton,   23,   23    
+29.    Juliana   Duiker,   Central HS,   Pollok,   23,   23    
+30.    Tyler   Schexsnaider,   East Chambers H S,   Winnie,   23,   23    
+31.    Rebecca   Cartwright,   Anderson-Shiro HS,   Anderson,   23,   23    
+32.    Nishit   Tailor,   Buffalo HS,   Buffalo,   22,   22    
+33.    Sara   Sudano,   Danbury H S,   Danbury,   22,   22    
+34.    Kaufman   Riddle,   Mildred H S,   Corsicana,   21,   21    
+35.    Tanner   Dale,   East Chambers H S,   Winnie,   21,   21    
+36.    Coltin   Foster,   Danbury H S,   Danbury,   21,   21    
+37.    Jordan   Engstrom,   Central Heights HS,   Nacogdoches,   20,   20    
+38.    Heithem   Azzain,   Clifton HS,   Clifton,   18,   18    
+39.    Mary   MacLeod,   Mildred H S,   Corsicana,   18,   18    
+40.    Henry   Gibson,   Central Heights HS,   Nacogdoches,   18,   18    
+41.    Cameron   Castilaw,   Central Heights HS,   Nacogdoches,   18,   18    
+42.    McKenna   Holloway,   Anderson-Shiro HS,   Anderson,   18,   18    
+43.    Aimee   Bowling,   McGregor H S,   McGregor,   17,   17    
+44.    Campbell   McCauley,   McGregor H S,   McGregor,   16,   16    
+45.    Logan   Batson,   Anderson-Shiro HS,   Anderson,   16,   16    
+46.    Ethan   Stiff,   Clifton HS,   Clifton,   15,   15    
+47.    Jacob   Jolley,   Central Heights HS,   Nacogdoches,   11,   11    
+-Team Results-
+1.   Grandview H S   92     X   State
+2.   Buffalo HS   80     X   Alternate
+3.   McGregor H S   78   
+4.   East Chambers H S   77   
+5.   Mildred H S   76   
+6.   Clifton HS   74   
+7.   Anderson-Shiro HS   70   
+8.   Danbury H S   70   
+9.   Central Heights HS   56   
+
+
+
+ -- Region 4 --
+ April 14 2019, Texas State University - San Marcos  
+-Individual Results-
+1.    Anthony   Zuniga,   Lyford H S,   Lyford,   35,   43.1     X   State
+2.    Matthew   Sun,   London HS,   Corpus Christi,   35,   41     X   State
+3.    Miles   Korzekwa,   Poth HS,   Poth,   33,   39.5     X   State
+4.    Ryan   Bailey,   Jourdanton HS,   Jourdanton,   29,   38     X   Alternate
+5.    Aaron   Ratliff,   Lyford H S,   Lyford,   30,   37     X  
+6.    Aidan   Cardona,   Santa Gertrudis Academy HS,   Kingsville,   29,   36     X  
+7.    Mateo   Martinez,   Goliad H S,   Goliad,   29,   34.5    
+8.    Joshua   Alvarez,   Jourdanton HS,   Jourdanton,   29,   34    
+9.    Andrew   Schobel,   Columbus HS,   Columbus,   29,   32    
+10.    Philip   Schneider,   Johnson (LBJ) HS,   Johnson City,   27,   27    
+11.    Anna   Beliveau,   Blanco HS,   Blanco,   27,   27    
+12.    Samuel   Mueller,   Randolph HS,   Universal City,   27,   27    
+13.    Madison   Gonzalez-Voris,   Skidmore-Tynan HS,   Skidmore,   27,   27    
+14.    Emily   Abrego,   London HS,   Corpus Christi,   27,   27    
+15.    Noah   Estes,   Santa Gertrudis Academy HS,   Kingsville,   27,   27    
+16.    Bryan   Rodriguez,   Santa Rosa HS,   Santa Rosa,   27,   27    
+17.    Elizabeth   Wheeler,   Blanco HS,   Blanco,   26,   26    
+18.    Mason   Bluhm,   BASIS Shavano HS,   San Antonio,   26,   26    
+19.    Jennifer   Rodriguez,   Ingram Tom Moore HS,   Ingram,   26,   26    
+20.    Ryan   Claycamp,   Stockdale HS,   Stockdale,   26,   26    
+21.    Corey   Lazo,   San Diego HS,   San Diego,   26,   26    
+22.    Sean   Petrosky,   Columbus HS,   Columbus,   25,   25    
+23.    Celestial   Losoya,   Rice H S,   Altair,   25,   25    
+24.    Grace   Schubert,   Goliad H S,   Goliad,   25,   25    
+25.    Luke   Jordan,   Jourdanton HS,   Jourdanton,   25,   25    
+26.    Dustin   Parker,   Rice H S,   Altair,   24,   24    
+27.    Chloe   Ramirez,   Cotulla HS,   Cotulla,   24,   24    
+28.    Dillon   Janosek,   London HS,   Corpus Christi,   24,   24    
+29.    Julian   Anderson,   Lyford H S,   Lyford,   24,   24    
+30.    Cotter   Simpson,   Stockdale HS,   Stockdale,   23,   23    
+31.    Jesus   Rivas-Villarral,   Santa Gertrudis Academy HS,   Kingsville,   23,   23    
+32.    Bryce   Arrell,   Blanco HS,   Blanco,   22,   22    
+33.    Caleb   McKinney,   Poth HS,   Poth,   22,   22    
+34.    Noah   Clapp,   Stockdale HS,   Stockdale,   22,   22    
+35.    Jackson   Roensch,   Columbus HS,   Columbus,   22,   22    
+36.    John   Kainer,   Blanco HS,   Blanco,   21,   21    
+37.    Iziah   Donnell,   Ingram Tom Moore HS,   Ingram,   21,   21    
+38.    Hayden   Schmidt,   Jourdanton HS,   Jourdanton,   20,   20    
+39.    Alishba   Kazmi,   London HS,   Corpus Christi,   20,   20    
+40.    Alexis   Sanchez,   Stockdale HS,   Stockdale,   19,   19    
+41.    Kate   Davis,   George West HS,   George West,   19,   19    
+42.    Jake   Billo,   Goliad H S,   Goliad,   19,   19    
+43.    Charles   Bocock VI,   Ingram Tom Moore HS,   Ingram,   18,   18    
+44.    Izabella   Torres,   San Diego HS,   San Diego,   17,   17    
+45.    Jaylen   Toro,   Columbus HS,   Columbus,   16,   16    
+46.    Daniella   Sierra,   Goliad H S,   Goliad,   16,   16    
+47.    Kaleb   Salinas,   Ingram Tom Moore HS,   Ingram,   15,   15    
+-Team Results-
+1.   Lyford H S   89     X   State
+2.   London HS   86     X   Alternate
+3.   Jourdanton HS   83   
+4.   Santa Gertrudis Academy HS   79   
+5.   Columbus HS   76   
+6.   Blanco HS   75   
+7.   Goliad H S   73   
+8.   Stockdale HS   71   
+9.   Ingram Tom Moore HS   65   
+
+
+
+ -- State --
+ May 3, 2019, University of Texas at Austin 
+-Individual Results-
+1.    Aaron   Ratliff,   Lyford H S,   Lyford,   36,   45.3     X    
+2.    Miles   Korzekwa,   Poth HS,   Poth,   35,   44.7     X    
+3.    Anthony   Zuniga,   Lyford H S,   Lyford,   36,   44.4     X    
+4.    Matthew   Sun,   London HS,   Corpus Christi,   35,   44     X   
+5.    Logan   Schlegel,   Holliday H S,    Holliday,   34,   40.7     X  
+6.    Cason   Quisenberry,   Grandview H S,   Grandview,   34,   39     X  
+7.    Mariah   Fisher,   Callisburg HS,   Gainesville,   34,   38.9    
+8.    Maddie   Reynolds,   Holliday H S,    Holliday,   34,   37.2    
+9.    Garrett   True,   Pilot Point HS,   Pilot Point,   32,   32    
+10.    Drew   McGehee,   Idalou H S,   Idalou,   31,   31    
+11.    Grayson   Glidewell,   Coahoma HS,   Coahoma,   31,   31    
+12.    Kate   Wagner,   Anahuac HS,   Anahuac,   31,   31    
+13.    Nathaniel   Baker,   Grandview H S,   Grandview,   30,   30    
+14.    Katherine   Drennan,   Grandview H S,   Grandview,   30,   30    
+15.    Everett   Herrington,   Idalou H S,   Idalou,   29,   29    
+16.    Pierce   Rogers,   Cooper HS,   Cooper,   29,   29    
+17.    Kenesaw   Stephens,   Idalou H S,   Idalou,   28,   28    
+18.    Colten   Ellis,   Holliday H S,    Holliday,   28,   28    
+19.    Ethan   Colley,   Cooper HS,   Cooper,   28,   28    
+20.    Mercedes   White,   Boling HS,   Boling,   28,   28    
+21.    Dylan   Caddell,   Idalou H S,   Idalou,   27,   27    
+22.    Jonathan   Hernandez,   Cooper HS,   Cooper,   27,   27    
+23.    Josh   Beasley,   Elysian Fields H S,   Elysian Fields,   26,   26    
+24.    Nora   Williamson,   Grandview H S,   Grandview,   25,   25    
+25.    Julian   Anderson,   Lyford H S,   Lyford,   24,   24    
+26.    Cooper   Taylor,   Holliday H S,    Holliday,   20,   20    
+27.    Rodney   Bridges,   Cooper HS,   Cooper,   17,   17    
+-Team Results-
+1.   Holliday H S   96     X 
+2.   Lyford H S   96     X  
+3.   Grandview H S   94   
+4.   Idalou H S   88   
+5.   Cooper HS   84   
+
+
+

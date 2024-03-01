@@ -1,0 +1,55 @@
+ -- Inter-Conference --
+ May 4, 2019, University of Texas at Austin 
+-Individual Results-
+1.    Angelina   Braese,   McKinney HS,    McKinney,   36,   44.9     X  
+2.    Miles   Korzekwa,   Poth HS,   Poth,   35,   44.7     X  
+3.    Anthony   Zuniga,   Lyford H S,   Lyford,   35,   44.5     X  
+4.    Andrew   Harding,   The Woodlands HS,    The Woodlands,   35,   44.5     X  
+5.    Kevin   Shaik,   Colleyville-Heritage HS,    Colleyville,   35,   42.9     X  
+6.    Nitish   Patel,   McKinney HS,    McKinney,   35,   42.8     X  
+7.    Ridge   Vaughn,   Hallsville H S,    Hallsville,   36,   42.7    
+8.    Mia   Escareno,   Sabine Pass HS,    Sabine Pass,   39,   42.6    
+9.    Dylan   Lance,   The Woodlands HS,    The Woodlands,   35,   42.5    
+10.    Peyton   Herrera,   Latexo H S,    Latexo,   35,   41.7    
+11.    Aadhar   Kulshrestha,   McKinney HS,    McKinney,   35,   41.2    
+12.    Kameron   Guillory,   Sabine Pass HS,    Sabine Pass,   35,   40.9    
+13.    Hooper   Sophie,   School for Talented & Gifted,    Dallas,   35,   40.9    
+14.    Jackson   Paul,   Stratford H S,    Houston,   36,   40.9    
+15.    Jayaker   Kolli,   Colleyville-Heritage HS,    Colleyville,   37,   40.4    
+16.    Madi   Cole,   Borden HS,    Gail,   35,   40.2    
+17.    Georgios   Pafilis,   Lebanon Trail HS,    Frisco,   37,   40    
+18.    Aaron   Ratliff,   Lyford H S,   Lyford,   37,   39.4    
+19.    Hunter   Littleton,   China Spring HS,    China Spring,   35,   37.6    
+20.    Logan   Schlegel,   Holliday H S,    Holliday,   34,   34    
+21.    Luke   Estes,   Smithson Valley HS,    Spring Branch,   34,   34    
+22.    Callie   Hargrove,   Borden HS,    Gail,   33,   33    
+23.    Garrit   Blizzard,   Bloomburg HS,    Bloomburg,   33,   33    
+24.    Ben   Waddill,   Decatur HS,    Decatur,   33,   33    
+25.    Haider   Khan,   China Spring HS,    China Spring,   33,   33    
+26.    Wyatt   Spangler,   Liberty Hill HS,    Liberty Hill,   33,   33    
+27.    Agustin   Perez,   The Woodlands HS,    The Woodlands,   33,   33    
+28.    Kelcey   Torres,   Sabine Pass HS,    Sabine Pass,   32,   32    
+29.    Maddie   Reynolds,   Holliday H S,    Holliday,   32,   32    
+30.    Carl   Schubert,   China Spring HS,    China Spring,   32,   32    
+31.    Paige   Holbrooks,   Borden HS,    Gail,   31,   31    
+32.    Colten   Ellis,   Holliday H S,    Holliday,   29,   29    
+33.    Rahul   Banerjee,   Colleyville-Heritage HS,    Colleyville,   29,   29    
+34.    Andrew   Dareing,   Irion Co HS,    Mertzon,   28,   28    
+35.    Hannah   Duhon,   Knox City HS,    Knox City,   26,   26    
+36.    Olivia   Anderson,   The Woodlands HS,    The Woodlands,   26,   26    
+37.    Porter   Slack,   McKinney HS,    McKinney,   26,   26    
+38.    Matthew   Gammon,   China Spring HS,    China Spring,   22,   22    
+39.    Jazmin   Castro,   Sabine Pass HS,    Sabine Pass,   21,   21    
+40.    Katie   Gray,   Borden HS,    Gail,   17,   17    
+41.    Cooper   Taylor,   Holliday H S,    Holliday,   17,   17    
+-Team Results-
+1.   McKinney HS   106     X 
+2.   Sabine Pass HS   106     X  
+3.   The Woodlands HS   103   
+4.   Colleyville-Heritage HS   101   
+5.   China Spring HS   100   
+6.   Borden HS   99   
+7.   Holliday H S   95   
+
+
+
